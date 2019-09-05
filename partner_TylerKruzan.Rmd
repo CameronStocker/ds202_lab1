@@ -1,0 +1,21 @@
+---
+title: "partner_TylerKruzan"
+author: "Tyler Kruzan"
+date: "9/5/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Lab 1
+
+Tyler Kruzan (tkruzan)
+
+Cameron pushed his `owner_CameronStocker.rmd` file up to the Github repository
+Commit ID: 0c19d70
+
+I was able to knit the file above with out error
+
+Something helpful for Git and Bash would be a cheatsheet similar to the ones available for RMarkdown, ggplot2, and dplyr
