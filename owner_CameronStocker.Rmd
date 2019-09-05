@@ -1,0 +1,19 @@
+---
+title: "owner_CameronStocker"
+author: "Cameron Stocker"
+date: "9/5/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+- Name: Cameron Stocker
+- That I like to work with numbers
+- Completing one task at a time, write down what all needs to get done, and having different folders for every class
+- Trying to make a social media app
+
+
