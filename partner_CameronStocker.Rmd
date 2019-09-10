@@ -1,0 +1,15 @@
+---
+title: "partner_Cameron"
+author: "Cameron Stocker"
+date: "9/10/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- My name is Cameron Stocker, my github username is CameronStocker
+- He committed his Rmd file, the ID was 4f0033d
+- I was able to knit the file
+- One tip would be to have a cheat sheet of the process of pushing files to the repo
