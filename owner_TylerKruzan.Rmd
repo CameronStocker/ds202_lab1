@@ -1,0 +1,22 @@
+---
+title: "owner_TylerKruzan"
+author: "Tyler Kruzan"
+date: "9/5/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+Tyler Kruzan
+
+####I am studying Data Analytics
+
+####Tools for Organizing Work:
+1. Follow a uniform structure for taking notes & saving files.
+2. Organize documents and files by Class and semester taken. 
+3. Pay attention in class!
+
+####Interesting Fact: I play tennis
