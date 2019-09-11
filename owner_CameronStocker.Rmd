@@ -16,4 +16,15 @@ knitr::opts_chunk$set(echo = TRUE)
 - Completing one task at a time, write down what all needs to get done, and having different folders for every class
 - Trying to make a social media app
 
+#Understanding Concepts Answers
+
+1. Git is a version control system that was created to help developers
+track changes in source codes and manage collaborative projects. Git hub
+makes git easier to use by hosting its services and bring your projects to
+the web
+
+2. Yes they can be used independently of each other. We use the two together because
+they make it easy to track your work and share you work in a group project. Another advantage is that they provide many collaborative features for group projects. One disadvantage would be that github is open to the public so anyone can see your work.
+
+3. A repository is a storage space for your projects. To create one you have to go change into the directory you want and then enter the command "git init".
 
